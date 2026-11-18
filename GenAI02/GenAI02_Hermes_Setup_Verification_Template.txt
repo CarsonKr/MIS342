@@ -2,7 +2,7 @@ GenAI02 — Installation and verification
 
 Name:
 Date:
-Hermes profile: MIS362
+Hermes profile: MIS342
 Model/provider observed (no key):
 
 Predictions (write before using Hermes):
@@ -12,7 +12,7 @@ Predictions (write before using Hermes):
     Independent check / supporting file:
     Result (PASS / NEEDS CORRECTION / NOT RUN):
 
-2. MIS362 profile created/selected:
+2. MIS342 profile created/selected:
     My observation / actual result:
     Independent check / supporting file:
     Result (PASS / NEEDS CORRECTION / NOT RUN):
